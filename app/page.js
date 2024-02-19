@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <p>Extra </p>
-      <Button variant="ghost"> Subscripe</Button>
+      <Button variant=""> Subscripe</Button>
     </div>
   );
 }
