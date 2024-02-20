@@ -23,7 +23,6 @@ const Hero = () => {
           eius quos ea neque sunt, accusantium soluta minus veniam tempora deserunt? Molestiae eius
           quidem quam repellat.
         </p>
-
         <Button className="mt-10">
             Explore Now
         </Button>
